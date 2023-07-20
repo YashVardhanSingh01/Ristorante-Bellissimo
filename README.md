@@ -30,6 +30,9 @@ npm install
 ```bash
 npm start
 ```
+Please note that the backend files are available on the repo: [React Server](https://github.com/YashVardhanSingh01/ReactServer.git)
+Install the files and run the server using the same procedure as above
+
 ## Feedback and Comments
 
 We value your feedback! Feel free to leave your comments and suggestions about our restaurant on the website. We appreciate hearing from you and continuously strive to enhance your dining experience.
